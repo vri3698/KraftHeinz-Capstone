@@ -32,7 +32,7 @@ Data Analysis, Visualization, and Optimization: Python, SQL/ BigQuery, Excel, Lo
    - *Results:* Applied the model to ten stores, resulting in a 4x increase in utilization rate and a 78% reduction in average shipments.
 
 ### Recommendations
-- **Combining Orders Strategy:** Combine orders placed on Mondays and Tuesdays, Wednesday, Thursday, and Friday, and Saturday and Sunday to achieve similar results across all stores.
+- **Combining Orders Strategy:** Combine orders placed on different days of the week in a particular sequence to achieve similar results across all stores.
 - **Customer Engagement:** Engage with customers to understand their needs and preferences, especially those flagged for potential optimization.
 
 ### Benefits and Outcomes
@@ -41,3 +41,6 @@ Data Analysis, Visualization, and Optimization: Python, SQL/ BigQuery, Excel, Lo
 - **Customer-Centric Approach:** Valuable insights gained through customer engagement for better service alignment.
 
 In conclusion, our data-driven approach, coupled with customer engagement, offers actionable insights for Kraft Heinz. The combination model for truck loading stands out as a practical and effective solution for optimizing operations, showcasing the potential for substantial cost savings and efficiency improvements.
+
+
+### Note: Cannot disclose details due to NDA constraints.
