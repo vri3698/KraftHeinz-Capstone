@@ -8,7 +8,7 @@
 
 
 ### Overview and Problem Statement
-The Kraft Heinz Company is planning to establish a new distribution facility and has provided historical order data for analysis. The goal is to optimize the order fulfillment process by understanding customer behaviors and suggesting improvements to maximize asset utilization and minimize inventory policies.
+The Kraft Heinz Company is planning to establish a new distribution facility and has provided historical order data **(2M+ orders)** for analysis. The goal is to optimize the order fulfillment process by understanding customer behaviors and suggesting improvements to maximize asset utilization and minimize inventory policies.
 
 ### Tech Stack Used:
 Data Analysis, Visualization, and Optimization: Python, SQL/ BigQuery, Excel, Looker Studio.
