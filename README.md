@@ -4,11 +4,15 @@
 
 ### Project Timeline
 
-<img width="800" height="500" alt="Screenshot 2024-01-23 at 2 26 27 PM" src="https://github.com/vri3698/KraftHeinz-Capstone/assets/157519502/b241a72d-f60e-4e94-bddd-5e2db4d4d961">
+<img width="900" height="400" alt="Screenshot 2024-01-23 at 2 26 27 PM" src="https://github.com/vri3698/KraftHeinz-Capstone/assets/157519502/b241a72d-f60e-4e94-bddd-5e2db4d4d961">
 
 
 ### Overview and Problem Statement
 The Kraft Heinz Company is planning to establish a new distribution facility and has provided historical order data for analysis. The goal is to optimize the order fulfillment process by understanding customer behaviors and suggesting improvements to maximize asset utilization and minimize inventory policies.
+
+### Tech Stack Used:
+Data Analysis, Visualization, and Optimization: Python, SQL/ BigQuery, Excel, Looker Studio.
+
 
 ### Exploratory Data Analysis Findings
 - **Seasonal Patterns:** Identified a seasonal pattern with peak orders during the Thanksgiving period.
