@@ -26,8 +26,8 @@ Data Analysis, Visualization, and Optimization: Python, SQL/ BigQuery, Excel, Lo
    - *Strategy:* Stratified stores based on order quantity and set a ratio threshold. Flagged stores below the threshold as potentially needing attention.
    - *Action:* Engage with flagged stores to understand ordering behavior and explore possibilities of increasing order quantity or aggregating orders.
 
-2. **Supply-side Optimization:**
-   - *Optimization Model:* Developed a model for truck loading, combining orders by days of the week and dispatching fully loaded trucks.
+2. **Supply-Chain Optimization:**
+   - *Optimization Model:* Developed a model for truck loading, combining orders by days of the week and dispatching fully loaded trucks. Inspired by the Greedy Knapsack Optimization Algorithm. 
    - *Constraints Considered:* Weight, volume, and height constraints for optimal loading.
    - *Results:* Applied the model to ten stores, resulting in a 4x increase in utilization rate and a 78% reduction in average shipments.
 
